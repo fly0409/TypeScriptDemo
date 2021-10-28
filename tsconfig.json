@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "target": "ES6",
+        "sourceMap": false,
+        "strict": true,
+        "noEmitOnError": true,
+    }
+}
